@@ -1,0 +1,131 @@
+.header-body {
+	background-color: #f0fff0;
+}
+.container {
+	padding-bottom: 30px;
+}
+body {
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+.logo {
+	width: 25%;
+	height: 25%;
+}
+.navbar-nav {
+	margin-right: 100px;
+}
+.sign-btn {
+	width: 100px;
+	height: 35px;
+	border-radius: 50px;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	background-color: #21b573;
+	border: none;
+}
+.img-header {
+	width: 100%;
+}
+.header-text {
+	margin-top: 30px;
+}
+.header-h6 {
+	color: #fd511a;
+}
+.span-header {
+	color: #21b573;
+}
+.information-section {
+	margin-top: 50px;
+}
+.info-img {
+	width: 60px;
+	height: 60px;
+}
+.info-h6 {
+	margin-top: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+.info-para {
+	font-size: 0.7rem;
+	font-family: 'Poppins', sans-serif;
+}
+#info-box {
+	width: 200px;
+	height: 200px;
+	box-shadow: 5px 5px 10px gray;
+	border-radius: 5%;
+	text-align: center;
+	padding-top: 40px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.course-h3 {
+	text-align: center;
+	margin-bottom: 40px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+}
+.card-img {
+	width: 10%;
+}
+#card-img-2 {
+	margin-left: 60px;
+}
+.card {
+	border: none;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;
+}
+.card-footer {
+	border: none;
+	background-color: white;
+}
+.testiminial-img {
+	width: 6%;
+	height: 6%;
+	border-radius: 50%;
+	margin-right: 20px;
+	margin-left: 220px;
+}
+.testimonial-para {
+	width: 500px;
+
+	text-align: justify;
+}
+.course-h3 {
+	margin-top: 30px;
+}
+.footer-section {
+	background-color: #282531;
+}
+.footer-section-para {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 100;
+	padding-top: 40px;
+	padding-left: 15px;
+	font-size: 0.8rem;
+	color: white;
+}
+.footer-para {
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	font-size: 12px;
+	color: grey;
+	margin-top: 30px;
+	padding-bottom: 20px;
+}
+.footer-head {
+	font-family: 'Poppins', sans-serif;
+	padding-left: 30px;
+	margin-top: 30px;
+	color: #ffffff;
+}
+.ul-text {
+	list-style: none;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 100;
+	color: white;
+}
