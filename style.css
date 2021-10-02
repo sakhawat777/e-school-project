@@ -54,7 +54,7 @@ body {
 #info-box {
 	width: 200px;
 	height: 200px;
-	box-shadow: 5px 5px 10px gray;
+	box-shadow: 2px 2px 5px gray;
 	border-radius: 5%;
 	text-align: center;
 	padding-top: 40px;
@@ -76,7 +76,7 @@ body {
 .card {
 	border: none;
 	border-radius: 10px;
-	box-shadow: 5px 5px 5px gray;
+	box-shadow: 2px 2px 5px gray;
 	border-radius: 10px;
 }
 .card-footer {
