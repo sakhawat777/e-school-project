@@ -24,8 +24,183 @@
 		margin-left: 19px;
 	}
 	.testiminial-img {
-		margin-right: 145px;
+		margin-right: 150px;
 		margin-bottom: 10px;
+	}
+	.course-h3 {
+		text-align: center;
+	}
+	.footer-section-para {
+		text-align: center;
+	}
+	.footer-head {
+		text-align: center;
+	}
+	.ul-text {
+		text-align: center;
+	}
+}
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+	.navbar-nav {
+		width: 100%;
+	}
+	.container {
+		width: 100%;
+	}
+	.logo {
+		width: 50%;
+		height: 50%;
+	}
+	.header-text {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	#info-box {
+		width: 90%;
+		margin-bottom: 10px;
+		margin-left: 19px;
+	}
+	.testiminial-img {
+		margin-right: 150px;
+		margin-bottom: 10px;
+	}
+	.course-h3 {
+		text-align: center;
+	}
+	.footer-section-para {
+		text-align: center;
+	}
+	.footer-head {
+		text-align: center;
+	}
+	.ul-text {
+		text-align: center;
+	}
+}
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+	.navbar-nav {
+		width: 100%;
+	}
+	.container {
+		width: 100%;
+	}
+	.logo {
+		width: 50%;
+		height: 50%;
+	}
+	.header-text {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	#info-box {
+		width: 90%;
+		margin-bottom: 10px;
+		margin-left: 19px;
+	}
+	.testiminial-img {
+		margin-right: 150px;
+		margin-bottom: 10px;
+	}
+	.course-h3 {
+		text-align: center;
+	}
+	.footer-section-para {
+		text-align: center;
+	}
+	.footer-head {
+		text-align: center;
+	}
+	.ul-text {
+		text-align: center;
+	}
+}
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+	.navbar-nav {
+		width: 100%;
+	}
+	.container {
+		width: 100%;
+	}
+	.logo {
+		width: 50%;
+		height: 50%;
+	}
+	.header-text {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	#info-box {
+		width: 90%;
+		margin-bottom: 10px;
+		margin-left: 45px;
+	}
+	.testiminial-img {
+		margin-right: 150px;
+		margin-bottom: 10px;
+	}
+	.course-h3 {
+		text-align: center;
+	}
+	.footer-section-para {
+		text-align: center;
+	}
+	.footer-head {
+		text-align: center;
+	}
+	.ul-text {
+		text-align: center;
+	}
+}
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	.navbar-nav {
+		width: 100%;
+	}
+	.container {
+		width: 100%;
+	}
+	.logo {
+		width: 50%;
+		height: 50%;
+	}
+	.header-text {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	#info-box {
+		width: 90%;
+		margin-bottom: 10px;
+		margin-left: 45px;
+	}
+	.testiminial-img {
+		margin-right: 150px;
+		margin-bottom: 10px;
+	}
+	.course-h3 {
+		text-align: center;
 	}
 	.footer-section-para {
 		text-align: center;
