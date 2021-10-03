@@ -1,6 +1,5 @@
 /* 
-  ##Device = Most of the Smartphones Mobiles (Portrait)
-  ##Screen = B/w 320px to 479px
+   ##Screen = 767px to lower resolution device
 */
 
 @media (max-width: 768px) {
