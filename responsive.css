@@ -1,0 +1,39 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (max-width: 768px) {
+	.navbar-nav {
+		width: 100%;
+	}
+	.container {
+		width: 100%;
+	}
+	.logo {
+		width: 50%;
+		height: 50%;
+	}
+	.header-text {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	#info-box {
+		width: 90%;
+		margin-bottom: 10px;
+	}
+	.testiminial-img {
+		margin-right: 145px;
+		margin-bottom: 10px;
+	}
+	.footer-section-para {
+		text-align: center;
+	}
+	.footer-head {
+		text-align: center;
+	}
+	.ul-text {
+		text-align: center;
+	}
+}
